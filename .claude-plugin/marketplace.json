@@ -7,9 +7,11 @@
   "plugins": [
     {
       "name": "twitter-command-center",
-      "source": "https://github.com/aisa-one/twitter-command-center",
+      "source": "./",
       "description": "Search, monitor, and publish on X/Twitter via AIsa API. Read profiles, timelines, mentions, followers, trends, lists, communities, Spaces, and post via OAuth relay.",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "category": "social-media",
+      "keywords": ["twitter", "x", "social-media", "monitoring"]
     }
   ]
 }
