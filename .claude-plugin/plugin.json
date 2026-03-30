@@ -12,6 +12,8 @@
   "keywords": ["twitter", "x", "social-media", "social-listening", "monitoring", "oauth", "aisa"],
   "userConfig": {
     "AISA_API_KEY": {
+      "type": "string",
+      "title": "AISA API Key",
       "description": "AIsa API key for Twitter data access (get one at aisa.one)",
       "sensitive": true
     }
