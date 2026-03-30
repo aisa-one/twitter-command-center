@@ -1,0 +1,15 @@
+{
+  "name": "twitter-command-center",
+  "owner": {
+    "name": "AIsa",
+    "url": "https://aisa.one"
+  },
+  "plugins": [
+    {
+      "name": "twitter-command-center",
+      "source": "https://github.com/aisa-one/twitter-command-center",
+      "description": "Search, monitor, and publish on X/Twitter via AIsa API. Read profiles, timelines, mentions, followers, trends, lists, communities, Spaces, and post via OAuth relay.",
+      "version": "1.0.0"
+    }
+  ]
+}
