@@ -1,0 +1,19 @@
+{
+  "name": "twitter-command-center",
+  "version": "1.0.0",
+  "description": "Search, monitor, and publish on X/Twitter via AIsa API. Read profiles, timelines, mentions, followers, trends, lists, communities, and Spaces. Post through OAuth relay — no passwords or cookies required.",
+  "author": {
+    "name": "AIsa",
+    "url": "https://aisa.one"
+  },
+  "homepage": "https://aisa.one",
+  "repository": "https://github.com/aisa-one/twitter-command-center",
+  "license": "MIT",
+  "keywords": ["twitter", "x", "social-media", "social-listening", "monitoring", "oauth", "aisa"],
+  "userConfig": {
+    "AISA_API_KEY": {
+      "description": "AIsa API key for Twitter data access (get one at aisa.one)",
+      "sensitive": true
+    }
+  }
+}
